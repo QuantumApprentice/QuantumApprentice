@@ -1,4 +1,7 @@
 ## Hi there 👋
+<p align="center"><img src="https://raw.githubusercontent.com/quantumapprentice/quantumapprentice/master/github-banner.png" /></p>
+
+<p><a href="https://www.twitch.tv/quantumapprentice" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/quantumapprentice?style=for-the-badge"></a></p>
 
 <!--
 **QuantumApprentice/QuantumApprentice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
