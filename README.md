@@ -3,7 +3,7 @@
 
 <p><a href="https://www.twitch.tv/quantumapprentice" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/quantumapprentice?style=for-the-badge"></a></p>
 
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'O5O6D6EWL');kofiwidget2.draw();</script> 
+<a href='https://ko-fi.com/O5O6D6EWL' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 <!--
 **QuantumApprentice/QuantumApprentice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
