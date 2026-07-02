@@ -1,5 +1,5 @@
 ## Hello there 👋
-<img width="498" height="278" alt="image" src="https://github.com/user-attachments/assets/ae96d2e5-ae47-4642-8427-fb61cbd92af0" />
+https://c.tenor.com/WuOwfnsLcfYAAAAC/tenor.gif
 
 <!-- <p align="center"><img src="https://raw.githubusercontent.com/quantumapprentice/quantumapprentice/master/github-banner.png" /></p> -->
 
