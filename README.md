@@ -1,5 +1,4 @@
 ## Hello there 👋
-https://c.tenor.com/WuOwfnsLcfYAAAAC/tenor.gif
 
 <!-- <p align="center"><img src="https://raw.githubusercontent.com/quantumapprentice/quantumapprentice/master/github-banner.png" /></p> -->
 
