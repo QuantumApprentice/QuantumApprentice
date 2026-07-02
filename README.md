@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello there 👋
+<img width="498" height="278" alt="image" src="https://github.com/user-attachments/assets/ae96d2e5-ae47-4642-8427-fb61cbd92af0" />
+
 <!-- <p align="center"><img src="https://raw.githubusercontent.com/quantumapprentice/quantumapprentice/master/github-banner.png" /></p> -->
 
 <p><a href="https://www.twitch.tv/quantumapprentice" target="_blank"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/quantumapprentice?style=for-the-badge"></a></p>
